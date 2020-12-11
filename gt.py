@@ -1,0 +1,1 @@
+print('wake the fuck up samurai we have the city to born')
